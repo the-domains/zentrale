@@ -1,0 +1,28 @@
+name: Zentrale
+favicon: null
+layout_spectrum: 0.38345393887721
+typography_spectrum: 0.0735082186292857
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.201421253150329
+  lightness: 0.4953571096993983
+  saturation: 0.5148893806617707
+  rhythmicContrast: 0.4913725738879293
+purpose: []
